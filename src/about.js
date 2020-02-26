@@ -79,6 +79,7 @@ class About extends React.Component {
               )}
               <td><input type='button' value='add more' onClick={this.addClick.bind(this)} /></td>
               <td><input type="submit" value="Submit" /></td>
+              <td><input type="button" value="dummy button" /><input type="button" value="dummy button" /></td>
             </tbody>
           </table>
 
